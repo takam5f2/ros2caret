@@ -6,7 +6,7 @@ Code changes from these PRs are already included in the migrated main branch.
 The links point to the original PRs for discussion and review history.
 
 | PR# | Title | Author | Original |
-|-----|-------|--------|----------|
+| --- | ----- | ------ | -------- |
 
 | #221 | fix: add a maintainer for the build farm | @miyakoshi-dev | [tier4/ros2caret#221](https://github.com/tier4/ros2caret/pull/221) |
 | #220 | add ros2trace to package.xml | @xygyo77 | [tier4/ros2caret#220](https://github.com/tier4/ros2caret/pull/220) |
@@ -17,7 +17,7 @@ The links point to the original PRs for discussion and review history.
 | #214 | chore: update version to v0.6.4 | @app/github-actions | [tier4/ros2caret#214](https://github.com/tier4/ros2caret/pull/214) |
 | #210 | fix: change tests_require to extras_require in setup.py | @xygyo77 | [tier4/ros2caret#210](https://github.com/tier4/ros2caret/pull/210) |
 | #209 | chore: update version to v0.6.3 | @app/github-actions | [tier4/ros2caret#209](https://github.com/tier4/ros2caret/pull/209) |
-| #207 | fix: unable to run pytest in github actions  | @ymski | [tier4/ros2caret#207](https://github.com/tier4/ros2caret/pull/207) |
+| #207 | fix: unable to run pytest in github actions | @ymski | [tier4/ros2caret#207](https://github.com/tier4/ros2caret/pull/207) |
 | #206 | feat: add Agnocast-related trace events into `ros2 caret record` | @atsushi421 | [tier4/ros2caret#206](https://github.com/tier4/ros2caret/pull/206) |
 | #205 | chore: update version to v0.6.2 | @app/github-actions | [tier4/ros2caret#205](https://github.com/tier4/ros2caret/pull/205) |
 | #204 | chore: update version to v0.6.1 | @app/github-actions | [tier4/ros2caret#204](https://github.com/tier4/ros2caret/pull/204) |
@@ -90,7 +90,7 @@ The links point to the original PRs for discussion and review history.
 | #132 | chore(deps): bump tibdex/github-app-token from 1 to 2 | @app/dependabot | [tier4/ros2caret#132](https://github.com/tier4/ros2caret/pull/132) |
 | #131 | chore: sync files | @app/system-tools-actions-public | [tier4/ros2caret#131](https://github.com/tier4/ros2caret/pull/131) |
 | #130 | chore(deps): bump actions/checkout from 3 to 4 | @app/dependabot | [tier4/ros2caret#130](https://github.com/tier4/ros2caret/pull/130) |
-| #129 | refactor: remove -d for ros2 caret command  | @ver033 | [tier4/ros2caret#129](https://github.com/tier4/ros2caret/pull/129) |
+| #129 | refactor: remove -d for ros2 caret command | @ver033 | [tier4/ros2caret#129](https://github.com/tier4/ros2caret/pull/129) |
 | #128 | chore(deps): bump tibdex/github-app-token from 1 to 2 | @app/dependabot | [tier4/ros2caret#128](https://github.com/tier4/ros2caret/pull/128) |
 | #127 | chore: sync files | @app/system-tools-actions-public | [tier4/ros2caret#127](https://github.com/tier4/ros2caret/pull/127) |
 | #126 | chore: update version to v0.4.18 | @app/github-actions | [tier4/ros2caret#126](https://github.com/tier4/ros2caret/pull/126) |
